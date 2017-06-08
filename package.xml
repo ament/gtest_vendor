@@ -7,6 +7,8 @@
   <maintainer email="dthomas@osrfoundation.org">Dirk Thomas</maintainer>
   <license>BSD</license>
 
+  <build_depend>cmake</build_depend>
+
   <export>
     <build_type>cmake</build_type>
   </export>
